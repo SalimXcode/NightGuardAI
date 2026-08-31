@@ -1,4 +1,4 @@
-opencv-python==4.8.1.78
+opencv-python-headless
 mediapipe==0.10.7
 numpy==1.25.0
 requests==2.31.0
@@ -7,3 +7,5 @@ groq==0.4.0
 twilio==8.10.0
 streamlit==1.28.0
 pillow==10.1.0
+libgl1-mesa-glx
+libglib2.0-0
